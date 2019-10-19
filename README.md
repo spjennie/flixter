@@ -37,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthough GIF
 
-<img src="http://g.recordit.co/2TwhGzy1fE.gif" width=250><br>
+<img src="http://g.recordit.co/QEltiDStba.gif" width=250><br>
 
 ### Notes
 I had some difficulties after I added the AlamofireImage Pod into the flixter folder because I kept getting errors saying that it didn't recognize the Pod. I cleaned the Build Folder and Buit the app again in order to fix this issue. 
